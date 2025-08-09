@@ -85,7 +85,11 @@ Continue making changes, committing, pulling, and pushing to keep your local fol
   ```sh
   git remote add origin https://github.com/your-username/your-repository.git
   ```
+- If the repository is 'Private'
 
+```sh
+git clone git@github.com:your-username/your-repository.git
+```
 ---
 
 **For more information, see the [GitHub Docs: Syncing your branch](https://docs.github.com/en/get-started/using-git/syncing-your-branch).**
